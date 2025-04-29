@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-4-29",
+        "amount": 1500.0,
+        "category": "love",
+        "description": "need to tell her again"
+    },
+    {
+        "date": "2024-4-29",
+        "amount": 1000.0,
+        "category": "airplane ticket",
+        "description": "to see her"
+    },
+    {
+        "date": "2024-4-29",
+        "amount": 1500.0,
+        "category": "love",
+        "description": "to tell her"
+    },
+    {
+        "date": "2024",
+        "amount": 1500.0,
+        "category": "love",
+        "description": "love"
+    },
+    {
+        "date": "2024-10-10",
+        "amount": 1500.0,
+        "category": "airplane ticket",
+        "description": "to see her"
+    }
+]
